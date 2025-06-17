@@ -3,7 +3,8 @@
 Foresight-Agents is a sophisticated, multi-agent AI system designed to automate the complex workflow of retail sales forecasting. This project leverages CrewAI to orchestrate specialized agents that handle data ingestion, time-series modeling with Prophet, and the generation of executive-level business reports. The entire pipeline is exposed through a user-friendly web interface built with Streamlit.
 
 ![Streamlit App Screenshot]
-![Screenshot 2025-06-17 at 9 43 55 AM](https://github.com/user-attachments/assets/70cc3479-524d-4ee0-b37d-cff3dcb78ef7)
+![Screenshot 2025-06-17 at 10 14 04 AM](https://github.com/user-attachments/assets/4b9b9b0b-78ed-419b-8903-429ef8a11c5b)
+
 
 ---
 
