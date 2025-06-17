@@ -1,0 +1,7 @@
+# config/models.yaml
+
+
+reporting_llm:
+  model_name: "gpt-4o"
+  temperature: 0.3
+  # You can add other parameters here later, like max_tokens, etc.

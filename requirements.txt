@@ -1,0 +1,9 @@
+crewai
+langchain-openai
+pandas
+openpyxl
+prophet
+scikit-learn
+pyyaml
+streamlit
+plotly

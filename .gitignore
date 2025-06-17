@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+foresight_env_312/
+*/foresight_env_312/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Sensitive Information - DO NOT COMMIT THIS
+.env
+
+# Generated output files
+outputs/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Temporary Excel files
+~$*.xlsx
